@@ -14,11 +14,11 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 #** BI: Analytics & Reporting (Data Analytics)
 nant Obnectivel
 vevelop surrodsed andsycics to deliver decaased ansapnes into:
-• "Customer Bchavior"
+• "Customer Behavior"
 **Product Performance"+
 "Sales Trends""
 Inese anszents empower stakenolders wich key ousiness metracs, enabians straterac deczsion-makin.
-## | License
+##  License
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution
 ##菜 About Me
 Hi there! I'm **Baraa Khatib Salkini**, als
